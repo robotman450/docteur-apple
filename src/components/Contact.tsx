@@ -7,7 +7,7 @@ const PHONE_DISPLAY = "77 570 93 82";
 const ADDRESS = "Boune Marché Serigne Fallou";
 const SOCIALS = {
   instagram: "https://instagram.com/docteurapple",
-  tiktok: "https://www.tiktok.com/@modouetcesboy?is_from_webapp=1&sender_device=pc",
+  tiktok: "https://www.tiktok.com/@docteur.apple5?is_from_webapp=1&sender_device=pc",
 };
 
 export default function Contact() {
