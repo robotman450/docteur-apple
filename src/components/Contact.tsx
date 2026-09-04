@@ -3,12 +3,11 @@ import Reveal from "./Reveal";
 import { WHATSAPP_NUMBER } from "../lib/whatsapp";
 
 // À personnaliser : adresse, réseaux sociaux, coordonnées de la boutique
-const PHONE_DISPLAY = "77 470 93 82";
-const ADDRESS = "Adresse à configurer — ex : Dakar, Sénégal";
+const PHONE_DISPLAY = "77 570 93 82";
+const ADDRESS = "Boune Marché Serigne Fallou";
 const SOCIALS = {
   instagram: "https://instagram.com/docteurapple",
-  youtube: "https://youtube.com/@docteurapple",
-  tiktok: "https://tiktok.com/@docteurapple",
+  tiktok: "https://www.tiktok.com/@modouetcesboy?is_from_webapp=1&sender_device=pc",
 };
 
 export default function Contact() {
@@ -16,8 +15,8 @@ export default function Contact() {
     { icon: Phone, label: PHONE_DISPLAY },
     { icon: MessageCircle, label: `WhatsApp : ${PHONE_DISPLAY}` },
     { icon: MapPin, label: ADDRESS },
-    { icon: Clock, label: "Lun–Sam · 9h–19h" },
-    { icon: Mail, label: "contact@docteurapple.com" },
+    { icon: Clock, label: "Lundi–Dimanch · 9h–21h" },
+    { icon: Mail, label: "idydocteurapple@gmail.com" },
   ];
 
   return (
