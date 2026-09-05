@@ -35,11 +35,7 @@ export default function Contact() {
             ))}
           </div>
           <div className="flex gap-3 mt-6">
-            <a href={SOCIALS.instagram} target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg flex items-center justify-center border border-brand-border">
-              <Instagram size={16} color="#8891A0" />
-            </a>
-            <a href={SOCIALS.youtube} target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg flex items-center justify-center border border-brand-border">
-              <Youtube size={16} color="#8891A0" />
+           
             </a>
             <a href={SOCIALS.tiktok} target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg flex items-center justify-center border border-brand-border text-brand-gray text-[10px] font-bold">
               TT
