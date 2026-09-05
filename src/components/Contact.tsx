@@ -7,7 +7,7 @@ const PHONE_DISPLAY = "77 570 93 82";
 const ADDRESS = "Boune Marché Serigne Fallou";
 const SOCIALS = {
   instagram: "https://instagram.com/docteurapple",
-  tiktok: "https://www.tiktok.com/@docteur.apple5?is_from_webapp=1&sender_device=pc",
+  tiktok: "https://www.tiktok.com/@idymoykaysha?_r=1&_d=f06je3if2b5jle&sec_uid=MS4wLjABAAAArYPqRmRcC1PoWP4joMp-Z2mK6OOnfX0y9Kpsz9168bvv1ZEAGyCv7cUB2t1TpnzY&share_author_id=6942069403715519494&sharer_language=fr&source=h5_m&u_code=dhhkc24k8a5k2i&item_author_type=1&utm_source=whatsapp&share_enter_from=&tt_from=whatsapp&enable_checksum=1&utm_medium=ios&share_link_id=0D51E6CD-41CE-4A7C-9F0E-BE79CF2BEB7F&user_id=6942069403715519494&sec_user_id=MS4wLjABAAAArYPqRmRcC1PoWP4joMp-Z2mK6OOnfX0y9Kpsz9168bvv1ZEAGyCv7cUB2t1TpnzY&utm_campaign=client_share&panel_source_v2=qrcode_panel&ug_btm=b0,b0&social_share_type=5&share_app_id=1233",
 };
 
 export default function Contact() {
